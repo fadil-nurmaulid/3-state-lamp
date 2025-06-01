@@ -20,4 +20,7 @@ A simple GUI application that simulates a lamp with 3 states using a button. Eac
    python 3-State_Lamp.py
    ```
 ## Screenshots
+![Screenshot](assets/Screenshot1.png)
+![Screenshot](assets/Screenshot2.jpg)
+![Screenshot](assets/Screenshot3.jpg)
    
